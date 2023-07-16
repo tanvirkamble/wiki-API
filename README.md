@@ -35,7 +35,7 @@ To use the Wiki API, follow these steps:
 
 5. The API will be available at `http://localhost:3000` (or the specified port).
 
-Alternatively, you can access the hosted version of the API at: [https://tanvir-wiki-api.onrender.co](https://tanvir-wiki-api.onrender.co)
+Alternatively, you can access the hosted version of the API at: [https://tanvir-wiki-api.onrender.co](https://tanvir-wiki-api.onrender.com)
 
 ## API Endpoints
 
